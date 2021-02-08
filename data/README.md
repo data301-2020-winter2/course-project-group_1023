@@ -1,1 +1,1 @@
-This is a file for the datas for the project
+This is a file to store the data for the project 
