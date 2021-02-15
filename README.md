@@ -1,7 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=360757&assignment_repo_type=GroupAssignmentRepo)
 # Group 1023 - {Rain Fall in Australia}
 
-- Your title can change over time.
+- Understanding Climate Change in Australia
 
 ## Milestones
 
@@ -22,8 +22,10 @@ The dataset we have chosen is provided by the Australian Government’s Bureau o
 
 - Person 1: Takumi Sugihara I'm a third year BS Economics student. 
 - Person 2: Albert Ugut I'm a second year Computer Science student.
-- Person 3: one sentence about you!
+- Person 3: 
 
 ## References
+Distribution Site: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+Definitions adapted from http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
+Data source: http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data.
 
-{Add your stuff here}
