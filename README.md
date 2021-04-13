@@ -36,5 +36,5 @@ Data source: http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climat
 
 ## Link to the video presentation 
 - (https://youtu.be/Pq-Am_whuVo)
-Please click to link to watch the group presentation. 
+Please click the link to watch the group presentation. 
 Thank you! 
